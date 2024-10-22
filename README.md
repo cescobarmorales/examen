@@ -1,3 +1,1 @@
-# flutter_application_1
-
-A new Flutter project.
+Creación de una aplicación en Flutter con Android Studio.
